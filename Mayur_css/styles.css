@@ -1,0 +1,91 @@
+
+
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #caf7e3
+
+
+}
+
+.bottom-container{
+
+  padding-top: 5rem;
+  display: inline;
+  position: absolute;
+  left: 10rem;
+
+}
+.bottom_right{
+  padding-top: 10rem;
+  display: inline;
+  position: absolute;
+  right: 5rem;
+}
+
+div{
+  background-color: #caf7e3
+}
+.earth{
+  height: 25rem;
+  width: 25rem;
+  padding-bottom: 3rem;
+}
+
+.just{
+  text-indent: 3rem;
+  text-align: justify;
+}
+
+
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+
+}
+
+hr {
+  border-style : dotted none none ;
+  border-width : 1rem;
+  border-color : grey;
+  background-color: #caf7e3 ;
+  width : 10rem ;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.propic{
+  width: 12rem
+}
+
+.intro{
+  font-size: 1.5rem;
+  display: inline-block;
+  width: 50%;
+}
+
+.left_Satellite{
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 30%;
+  top: 10rem;
+}
+
+.skills{
+  width: 20rem;
+}
+
+
+.right_Satellite{
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  left: 20%;
+}
+
+.top_container{
+  padding-top:30px;
+}
