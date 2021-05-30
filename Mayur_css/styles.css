@@ -69,9 +69,8 @@ hr {
 .left_Satellite{
   width: 6rem;
   height: 6rem;
-  position: absolute;
-  left: 30%;
-  top: 10rem;
+  position: relative;
+  right: 20%;
 }
 
 .skills{
